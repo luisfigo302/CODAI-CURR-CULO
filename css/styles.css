@@ -10,8 +10,8 @@ body{
 
 }
 .card-body{
-    background-color: rgb(200, 200, 243);
-    border-radius: 20%;
+    background-color: rgb(243, 239, 200);
+    border-radius: 10%;
     align-content: center;
     justify-content: center;
 }
